@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Рабочий стол/index"
+		},
+		{
+			"path": "../../Рабочий стол/index11f"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index11f"
+	}
+}
